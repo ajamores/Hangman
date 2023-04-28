@@ -1,6 +1,7 @@
 # Hangman
 
-Word Guessing Game with Visuals
+**Word Guessing Game with Visuals**
+
 This script implements a simple Hangman game. The player has to guess letters in a word and if they guess incorrectly too many times, they lose the game. This Hangman game was created as a way to further learn about basic concepts in Python programming.
 
 **Basic Concepts Learned**
