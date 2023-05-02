@@ -28,3 +28,8 @@ This script implements a simple Hangman game. The player has to guess letters in
 
 - The ASCII art for the hangman stages was sourced from the asciiart module.
 - The list of words for the game was sourced from the word_list module.
+
+**Images**
+
+![image](https://i.imgur.com/bDJqYgH.png)
+![image2](https://i.imgur.com/sM2y00F.png)
